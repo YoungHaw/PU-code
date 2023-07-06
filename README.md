@@ -7,7 +7,8 @@ The code written for this study is contained in a.ipynb file.
 ## Database
 - Python 
 - numpy 
-- pandas 
+- pandas
+- RDkit
 - PU learning
 ### Note
 This repository does not include.py files for the model.
