@@ -4,7 +4,8 @@ This repository contains all the code for PAEs molecular compatibility predictio
 The molecular descriptors used in our paper.
 ## Code
 The code written for this study is contained in a.ipynb file.
-## Database
+## Dependencies
+### Database
 - Python 
 - numpy 
 - pandas
