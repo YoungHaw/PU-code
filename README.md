@@ -10,5 +10,7 @@ The code written for this study is contained in a.ipynb file.
 - pandas
 - RDkit
 - PU learning
+- SHAP
+- scikit-learn
 ### Note
 This repository does not include.py files for the model.
